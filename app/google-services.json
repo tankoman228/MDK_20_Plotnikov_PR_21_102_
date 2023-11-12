@@ -1,0 +1,49 @@
+{
+  "project_info": {
+    "project_number": "946351660673",
+    "firebase_url": "https://mdk-20-plotnikov-pr21-102-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "mdk-20-plotnikov-pr21-102",
+    "storage_bucket": "mdk-20-plotnikov-pr21-102.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:946351660673:android:90e09f8480dbee8deb7780",
+        "android_client_info": {
+          "package_name": "com.example.mdk_20_plotnikov_pr_21_102"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAGjCh3cEgP1Q0e9ygrJ_WATVkLezAV84c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:946351660673:android:0a65e3e5fd666c35eb7780",
+        "android_client_info": {
+          "package_name": "com.example.mdk_20_plotnikov_pr_21_102_"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAGjCh3cEgP1Q0e9ygrJ_WATVkLezAV84c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
